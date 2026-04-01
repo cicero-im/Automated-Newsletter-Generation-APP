@@ -11,6 +11,6 @@ torch
 torchaudio
 torchvision
 transformers==4.36.2
-unstructured==0.11.6
+unstructured==0.18.18
 tiktoken
 
