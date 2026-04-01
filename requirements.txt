@@ -10,7 +10,7 @@ python-dotenv
 torch
 torchaudio
 torchvision
-transformers==4.36.2
+transformers==4.53.0
 unstructured==0.11.6
 tiktoken
 
